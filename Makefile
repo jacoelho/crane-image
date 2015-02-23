@@ -1,4 +1,4 @@
-IMAGE_NAME = jacoelho
+IMAGE_NAME = jacoelho/crane-image
 VERSION = 0.1
 BUILD_CMD = docker build --no-cache --rm=true -t
 

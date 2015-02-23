@@ -1,7 +1,7 @@
 # crane-image
 
 docker container with:
-- docker 1.5
-- crane 1.1.1
+- [docker](https://github.com/docker/docker)
+- [crane](https://github.com/michaelsauter/crane)
 
 check script for usage
